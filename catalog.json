@@ -1,0 +1,527 @@
+{
+  "version": 2,
+  "subjects": [
+    {
+      "id": "arabic",
+      "name": "عربية",
+      "enabled": true,
+      "years": {
+        "m1": {
+          "lessons": [
+            {
+              "title": "ملخص شامل لدروس اللغة العربية للفصل الأول",
+              "video": "https://www.youtube.com/watch?v=Lu8_UNCZpGw"
+            }
+          ],
+          "summaries": [],
+          "exams": []
+        },
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "عربية 2026",
+              "url": "content/secondary/s3/arabic/exams/arabe2026.pdf",
+              "year": 2026
+            },
+            {
+              "title": "عربية 2025",
+              "url": "content/secondary/s3/arabic/exams/arabe2025.pdf",
+              "year": 2025
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "math",
+      "name": "رياضيات",
+      "enabled": true,
+      "years": {
+        "m1": {
+          "lessons": [
+            {
+              "title": "ملخص شامل الرياضيات للفصل الأول",
+              "video": "https://www.youtube.com/watch?v=8KHthlttiFE&list=PLLzfAMhLJ6f40TPe3u-XzAuZ7Fp3rQmHc"
+            }
+          ],
+          "summaries": [],
+          "exams": []
+        },
+        "s2": {
+          "lessons": [],
+          "summaries": [
+            {
+              "title": "العمليات على الدوال",
+              "url": "https://www.youtube.com/watch?v=SrcJ5O1LXjo&list=PLwOUJgF01eaR73GR-oYguRVnsHAGZJw45&index=4",
+              "video": true
+            }
+          ],
+          "exams": []
+        },
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "بكالوريا 2025 رياضيات",
+              "url": "content/secondary/s3/math/exams/bac2025-math.pdf",
+              "year": 2025
+            },
+            {
+              "title": "بكالوريا 2017 رياضيات",
+              "url": "content/secondary/s3/math/exams/bac2017-Math.pdf",
+              "year": 2017
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "french",
+      "name": "فرنسية",
+      "enabled": true,
+      "years": {
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "فرنسية 2026",
+              "url": "content/secondary/s3/french/exams/francais2026.pdf",
+              "year": 2026
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "english",
+      "name": "إنجليزية",
+      "enabled": true,
+      "years": {
+        "s2": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "2 as إنجليزية examens dzmadrassa 2 as إنجليزية الموضوع 197203 2013",
+              "url": "content/secondary/s2/english/exams/2as_anglais_examens_dzmadrassa-2as-anglais-sujet-197203-2013.pdf",
+              "year": 2013
+            },
+            {
+              "title": "2 as إنجليزية examens dzmadrassa 2 as إنجليزية الموضوع 593986",
+              "url": "content/secondary/s2/english/exams/2as_anglais_examens_dzmadrassa-2as-anglais-sujet-593986.pdf"
+            }
+          ]
+        },
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "4 2026",
+              "url": "content/secondary/s3/english/exams/4-2026.pdf",
+              "year": 2026
+            },
+            {
+              "title": "3 2020",
+              "url": "content/secondary/s3/english/exams/3-2020.pdf",
+              "year": 2020
+            },
+            {
+              "title": "2 2018",
+              "url": "content/secondary/s3/english/exams/2-2018.pdf",
+              "year": 2018
+            },
+            {
+              "title": "1 2018",
+              "url": "content/secondary/s3/english/exams/1-2018.pdf",
+              "year": 2018
+            },
+            {
+              "title": "9",
+              "url": "content/secondary/s3/english/exams/9.pdf"
+            },
+            {
+              "title": "8",
+              "url": "content/secondary/s3/english/exams/8.pdf"
+            },
+            {
+              "title": "7",
+              "url": "content/secondary/s3/english/exams/7.pdf"
+            },
+            {
+              "title": "6 english",
+              "url": "content/secondary/s3/english/exams/6-english.pdf"
+            },
+            {
+              "title": "5 english",
+              "url": "content/secondary/s3/english/exams/5-english.pdf"
+            },
+            {
+              "title": "35",
+              "url": "content/secondary/s3/english/exams/35.pdf"
+            },
+            {
+              "title": "34",
+              "url": "content/secondary/s3/english/exams/34.pdf"
+            },
+            {
+              "title": "33",
+              "url": "content/secondary/s3/english/exams/33.pdf"
+            },
+            {
+              "title": "32",
+              "url": "content/secondary/s3/english/exams/32.pdf"
+            },
+            {
+              "title": "31",
+              "url": "content/secondary/s3/english/exams/31.pdf"
+            },
+            {
+              "title": "30",
+              "url": "content/secondary/s3/english/exams/30.pdf"
+            },
+            {
+              "title": "29",
+              "url": "content/secondary/s3/english/exams/29.pdf"
+            },
+            {
+              "title": "28",
+              "url": "content/secondary/s3/english/exams/28.pdf"
+            },
+            {
+              "title": "27",
+              "url": "content/secondary/s3/english/exams/27.pdf"
+            },
+            {
+              "title": "26",
+              "url": "content/secondary/s3/english/exams/26.pdf"
+            },
+            {
+              "title": "25",
+              "url": "content/secondary/s3/english/exams/25.pdf"
+            },
+            {
+              "title": "24",
+              "url": "content/secondary/s3/english/exams/24.pdf"
+            },
+            {
+              "title": "23",
+              "url": "content/secondary/s3/english/exams/23.pdf"
+            },
+            {
+              "title": "22",
+              "url": "content/secondary/s3/english/exams/22.pdf"
+            },
+            {
+              "title": "21",
+              "url": "content/secondary/s3/english/exams/21.pdf"
+            },
+            {
+              "title": "20",
+              "url": "content/secondary/s3/english/exams/20.pdf"
+            },
+            {
+              "title": "19",
+              "url": "content/secondary/s3/english/exams/19.pdf"
+            },
+            {
+              "title": "18",
+              "url": "content/secondary/s3/english/exams/18.pdf"
+            },
+            {
+              "title": "17",
+              "url": "content/secondary/s3/english/exams/17.pdf"
+            },
+            {
+              "title": "16",
+              "url": "content/secondary/s3/english/exams/16.pdf"
+            },
+            {
+              "title": "15",
+              "url": "content/secondary/s3/english/exams/15.pdf"
+            },
+            {
+              "title": "14",
+              "url": "content/secondary/s3/english/exams/14.pdf"
+            },
+            {
+              "title": "13",
+              "url": "content/secondary/s3/english/exams/13.pdf"
+            },
+            {
+              "title": "12",
+              "url": "content/secondary/s3/english/exams/12.pdf"
+            },
+            {
+              "title": "11",
+              "url": "content/secondary/s3/english/exams/11.pdf"
+            },
+            {
+              "title": "10",
+              "url": "content/secondary/s3/english/exams/10.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "islamic",
+      "name": "تربية إسلامية",
+      "enabled": true,
+      "years": {}
+    },
+    {
+      "id": "civics",
+      "name": "تربية مدنية",
+      "enabled": true,
+      "years": {}
+    },
+    {
+      "id": "science",
+      "name": "تربية علمية وتكنولوجيا",
+      "enabled": true,
+      "years": {}
+    },
+    {
+      "id": "hist_geo",
+      "name": "تاريخ وجغرافيا",
+      "enabled": true,
+      "years": {
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "تاريخ جغرافيا 2026",
+              "url": "content/secondary/s3/hist_geo/exams/histoire_geo-2026.pdf",
+              "year": 2026
+            },
+            {
+              "title": "2025",
+              "url": "content/secondary/s3/hist_geo/exams/2025.pdf",
+              "year": 2025
+            },
+            {
+              "title": "Examen تاريخ جغرافيا 3 as 2 tr 2020",
+              "url": "content/secondary/s3/hist_geo/exams/Examen_Histoire_Geo_3as_2tr-2020.pdf",
+              "year": 2020
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "svt",
+      "name": "علوم الطبيعة والحياة",
+      "enabled": true,
+      "years": {
+        "s1": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "1 tm 2017 sciences",
+              "url": "content/secondary/s1/svt/exams/1tm2017-sciences.pdf",
+              "year": 2017
+            }
+          ]
+        },
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "اختبار scienc 3 as 1 tr compressed 2021",
+              "url": "content/secondary/s3/svt/exams/exam-scienc-3as-1tr-compressed2021.pdf",
+              "year": 2021
+            },
+            {
+              "title": "اختبار scienc 3 as 3 tr compressed 2019",
+              "url": "content/secondary/s3/svt/exams/exam-scienc-3as-3tr-compressed2019.pdf",
+              "year": 2019
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "physics_tech",
+      "name": "علوم فيزيائية وتكنولوجية",
+      "enabled": true,
+      "years": {}
+    },
+    {
+      "id": "physics",
+      "name": "علوم فيزيائية",
+      "enabled": true,
+      "years": {
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "بكالوريا رياضيات physics 2025",
+              "url": "content/secondary/s3/physics/exams/bac-math-physics-2025.pdf",
+              "year": 2025
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "philosophy",
+      "name": "فلسفة",
+      "enabled": true,
+      "years": {
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "اختبار philo 3 as 3 tr 2023",
+              "url": "content/secondary/s3/philosophy/exams/exam-philo-3as-3tr2023.pdf",
+              "year": 2023
+            },
+            {
+              "title": "اختبار philo 3 as 2023",
+              "url": "content/secondary/s3/philosophy/exams/exam-philo-3as-2023.pdf",
+              "year": 2023
+            },
+            {
+              "title": "اختبار philo 3 ges 2 tr compressed 2022",
+              "url": "content/secondary/s3/philosophy/exams/exam-philo-3ges-2tr-compressed2022.pdf",
+              "year": 2022
+            },
+            {
+              "title": "اختبار philo 3 as 1 tr 2022",
+              "url": "content/secondary/s3/philosophy/exams/exam-philo-3as-1tr2022.pdf",
+              "year": 2022
+            },
+            {
+              "title": "اختبار 3 as philo 3 as compressed 2022",
+              "url": "content/secondary/s3/philosophy/exams/exam-3as-philo-3as-compressed2022.pdf",
+              "year": 2022
+            },
+            {
+              "title": "اختبار philo 3 as 2 tr Compressed 2021",
+              "url": "content/secondary/s3/philosophy/exams/exam-philo-3as-2tr_Compressed2021.pdf",
+              "year": 2021
+            },
+            {
+              "title": "اختبار 3 as philo 1 tr compressed 2021",
+              "url": "content/secondary/s3/philosophy/exams/exam-3as-philo-1tr-compressed2021.pdf",
+              "year": 2021
+            },
+            {
+              "title": "اختبار 1 tr philo 3 as compressed 2021",
+              "url": "content/secondary/s3/philosophy/exams/exam-1tr-philo-3as-compressed2021.pdf",
+              "year": 2021
+            },
+            {
+              "title": "Examen Philo 3 as 2 tr + التصحيح compressed 2020",
+              "url": "content/secondary/s3/philosophy/exams/Examen_Philo_3as_2tr_%2B_Correction-compressed-2020.pdf",
+              "year": 2020
+            },
+            {
+              "title": "compo 1 tr 3 as philo 2019 2020 Compressed",
+              "url": "content/secondary/s3/philosophy/exams/compo_1tr_3as_philo_2019_2020_Compressed.pdf",
+              "year": 2019
+            },
+            {
+              "title": "3 as 2 tr philo اختبار 2019 crj pdf compressed",
+              "url": "content/secondary/s3/philosophy/exams/3as-2tr-philo-exam-2019-crj-pdf-compressed.pdf",
+              "year": 2019
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "islamic_sci",
+      "name": "علوم إسلامية",
+      "enabled": true,
+      "years": {
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "islamique 2026",
+              "url": "content/secondary/s3/islamic_sci/exams/islamique2026.pdf",
+              "year": 2026
+            },
+            {
+              "title": "islamique 2025",
+              "url": "content/secondary/s3/islamic_sci/exams/islamique2025.pdf",
+              "year": 2025
+            },
+            {
+              "title": "اختبار scienceislamique 3 as 2 trCompressed 2021",
+              "url": "content/secondary/s3/islamic_sci/exams/exam-scienceislamique_3as-2trCompressed2021.pdf",
+              "year": 2021
+            },
+            {
+              "title": "Examen Science Islamique 3 as 2 tr 2020 compressed",
+              "url": "content/secondary/s3/islamic_sci/exams/Examen_Science_Islamique_3as_2tr-2020-compressed.pdf",
+              "year": 2020
+            },
+            {
+              "title": "compo 1 tr 3 as sciensislamique 2019 2020 Compressed",
+              "url": "content/secondary/s3/islamic_sci/exams/compo_1tr_3as_sciensislamique_2019_2020_Compressed.pdf",
+              "year": 2019
+            },
+            {
+              "title": "3 as اختبار فرنسية 2019",
+              "url": "content/secondary/s3/islamic_sci/exams/3as_exam_francais2019.pdf",
+              "year": 2019
+            },
+            {
+              "title": "3 as 2 tr sciense islamique اختبار 2019 الموضوع pdf",
+              "url": "content/secondary/s3/islamic_sci/exams/3as-2tr-sciense_islamique-exam-2019-sujet-pdf.pdf",
+              "year": 2019
+            },
+            {
+              "title": "3 as 2 tr scienceislamique اختبار 2019 crj pdf compressed",
+              "url": "content/secondary/s3/islamic_sci/exams/3as-2tr-scienceislamique-exam-2019-crj-pdf-compressed.pdf",
+              "year": 2019
+            },
+            {
+              "title": "3 as 1 tr science islamique 2018 suj compressed",
+              "url": "content/secondary/s3/islamic_sci/exams/3as_1tr__science_islamique_2018_suj--compressed.pdf",
+              "year": 2018
+            },
+            {
+              "title": "3 as 1 tr science islamique 2018 crj compressed",
+              "url": "content/secondary/s3/islamic_sci/exams/3as_1tr__science_islamique_2018_crj-compressed.pdf",
+              "year": 2018
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "computer",
+      "name": "إعلام آلي",
+      "enabled": true,
+      "years": {}
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n001",
+      "date": "2026-11-15",
+      "title": "تمت إضافة بكالوريا 2017 رياضيات",
+      "body": "الموضوع مع التصحيح",
+      "year": "s3",
+      "target": {
+        "subject": "math",
+        "section": "exams",
+        "exam_year": 2017
+      }
+    }
+  ]
+}
